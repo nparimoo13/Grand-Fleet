@@ -1,0 +1,437 @@
+{
+  "id": "sunny_deck",
+  "name": "The Sunny Deck",
+  "tileSize": 16,
+  "size": {
+    "w": 56,
+    "h": 30
+  },
+  "rooms": [
+    {
+      "id": "figurehead",
+      "label": "Figurehead deck",
+      "deck": 0,
+      "rect": {
+        "x": 1,
+        "y": 9,
+        "w": 7,
+        "h": 5
+      },
+      "station": {
+        "x": 4,
+        "y": 4,
+        "facing": "right"
+      },
+      "props": [
+        "carved_figurehead",
+        "rope_coil",
+        "lantern"
+      ]
+    },
+    {
+      "id": "crows_nest",
+      "label": "Crow's nest gym",
+      "deck": 0,
+      "rect": {
+        "x": 22,
+        "y": 1,
+        "w": 10,
+        "h": 6
+      },
+      "station": {
+        "x": 5,
+        "y": 4,
+        "facing": "left"
+      },
+      "props": [
+        "weight_rack",
+        "lookout_window",
+        "wall_cushion"
+      ]
+    },
+    {
+      "id": "lawn",
+      "label": "Lawn deck & aquarium bar",
+      "deck": 0,
+      "rect": {
+        "x": 9,
+        "y": 9,
+        "w": 14,
+        "h": 5
+      },
+      "station": {
+        "x": 6,
+        "y": 4,
+        "facing": "right"
+      },
+      "props": [
+        "piano",
+        "bar_counter",
+        "aquarium",
+        "lantern"
+      ]
+    },
+    {
+      "id": "helm",
+      "label": "Helm",
+      "deck": 0,
+      "rect": {
+        "x": 44,
+        "y": 9,
+        "w": 9,
+        "h": 5
+      },
+      "station": {
+        "x": 4,
+        "y": 4,
+        "facing": "left"
+      },
+      "props": [
+        "ship_wheel",
+        "compass",
+        "lantern"
+      ]
+    },
+    {
+      "id": "galley",
+      "label": "Galley & dining room",
+      "deck": 1,
+      "rect": {
+        "x": 9,
+        "y": 15,
+        "w": 12,
+        "h": 5
+      },
+      "station": {
+        "x": 4,
+        "y": 4,
+        "facing": "right"
+      },
+      "props": [
+        "stove",
+        "hanging_pans",
+        "long_table",
+        "pantry"
+      ]
+    },
+    {
+      "id": "map_room",
+      "label": "Navigator's map room",
+      "deck": 1,
+      "rect": {
+        "x": 22,
+        "y": 15,
+        "w": 8,
+        "h": 5
+      },
+      "station": {
+        "x": 4,
+        "y": 4,
+        "facing": "right"
+      },
+      "props": [
+        "chart_table",
+        "globe",
+        "berry_chest"
+      ]
+    },
+    {
+      "id": "library",
+      "label": "Library",
+      "deck": 1,
+      "rect": {
+        "x": 31,
+        "y": 15,
+        "w": 8,
+        "h": 5
+      },
+      "station": {
+        "x": 4,
+        "y": 4,
+        "facing": "left"
+      },
+      "props": [
+        "bookshelves",
+        "reading_chair",
+        "coffee_table"
+      ]
+    },
+    {
+      "id": "factory",
+      "label": "Workshop factory",
+      "deck": 2,
+      "rect": {
+        "x": 9,
+        "y": 21,
+        "w": 10,
+        "h": 5
+      },
+      "station": {
+        "x": 5,
+        "y": 4,
+        "facing": "right"
+      },
+      "props": [
+        "workbench",
+        "tool_wall",
+        "parts_bins"
+      ]
+    },
+    {
+      "id": "engine_room",
+      "label": "Engine room",
+      "deck": 2,
+      "rect": {
+        "x": 20,
+        "y": 21,
+        "w": 14,
+        "h": 5
+      },
+      "station": {
+        "x": 7,
+        "y": 4,
+        "facing": "right"
+      },
+      "props": [
+        "engine",
+        "pipes",
+        "gauge_panel"
+      ]
+    },
+    {
+      "id": "infirmary",
+      "label": "Infirmary",
+      "deck": 2,
+      "rect": {
+        "x": 35,
+        "y": 21,
+        "w": 12,
+        "h": 5
+      },
+      "station": {
+        "x": 5,
+        "y": 4,
+        "facing": "left"
+      },
+      "props": [
+        "medicine_cabinet",
+        "cot",
+        "mortar_and_pestle"
+      ]
+    },
+    {
+      "id": "captains_room",
+      "label": "Captain's room",
+      "deck": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      },
+      "station": {
+        "x": 4,
+        "y": 4,
+        "facing": "right"
+      },
+      "props": [
+        "captain_desk",
+        "reading_chair",
+        "globe",
+        "sword_rack"
+      ],
+      "pixelOnly": true
+    },
+    {
+      "id": "crew_quarters",
+      "label": "Crew quarters",
+      "deck": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      },
+      "station": {
+        "x": 6,
+        "y": 4,
+        "facing": "right"
+      },
+      "props": [
+        "bunk_bed",
+        "hammock",
+        "footlocker"
+      ],
+      "pixelOnly": true
+    },
+    {
+      "id": "aquarium_lounge",
+      "label": "Aquarium lounge & bar",
+      "deck": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      },
+      "station": {
+        "x": 7,
+        "y": 4,
+        "facing": "right"
+      },
+      "props": [
+        "reef_window",
+        "bar_counter",
+        "sofa",
+        "bottle_shelf"
+      ],
+      "pixelOnly": true
+    },
+    {
+      "id": "storage",
+      "label": "Storage hold",
+      "deck": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      },
+      "station": {
+        "x": 5,
+        "y": 4,
+        "facing": "left"
+      },
+      "props": [
+        "barrel_stack",
+        "crate_stack",
+        "crate_oranges"
+      ],
+      "pixelOnly": true
+    },
+    {
+      "id": "weapons",
+      "label": "Weapons room",
+      "deck": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      },
+      "station": {
+        "x": 4,
+        "y": 4,
+        "facing": "right"
+      },
+      "props": [
+        "weapon_rack",
+        "cannon",
+        "cannonballs"
+      ],
+      "pixelOnly": true
+    }
+  ],
+  "paths": [
+    {
+      "from": "figurehead",
+      "to": "lawn",
+      "kind": "deck"
+    },
+    {
+      "from": "lawn",
+      "to": "helm",
+      "kind": "deck"
+    },
+    {
+      "from": "lawn",
+      "to": "crows_nest",
+      "kind": "ladder"
+    },
+    {
+      "from": "helm",
+      "to": "captains_room",
+      "kind": "stairs"
+    },
+    {
+      "from": "library",
+      "to": "captains_room",
+      "kind": "stairs"
+    },
+    {
+      "from": "figurehead",
+      "to": "galley",
+      "kind": "ladder"
+    },
+    {
+      "from": "lawn",
+      "to": "crew_quarters",
+      "kind": "ladder"
+    },
+    {
+      "from": "galley",
+      "to": "crew_quarters",
+      "kind": "door"
+    },
+    {
+      "from": "crew_quarters",
+      "to": "library",
+      "kind": "door"
+    },
+    {
+      "from": "galley",
+      "to": "aquarium_lounge",
+      "kind": "ladder"
+    },
+    {
+      "from": "crew_quarters",
+      "to": "aquarium_lounge",
+      "kind": "ladder"
+    },
+    {
+      "from": "library",
+      "to": "infirmary",
+      "kind": "stairs"
+    },
+    {
+      "from": "factory",
+      "to": "aquarium_lounge",
+      "kind": "door"
+    },
+    {
+      "from": "aquarium_lounge",
+      "to": "map_room",
+      "kind": "door"
+    },
+    {
+      "from": "map_room",
+      "to": "infirmary",
+      "kind": "door"
+    },
+    {
+      "from": "factory",
+      "to": "engine_room",
+      "kind": "ladder"
+    },
+    {
+      "from": "aquarium_lounge",
+      "to": "storage",
+      "kind": "ladder"
+    },
+    {
+      "from": "infirmary",
+      "to": "weapons",
+      "kind": "ladder"
+    },
+    {
+      "from": "engine_room",
+      "to": "storage",
+      "kind": "door"
+    },
+    {
+      "from": "storage",
+      "to": "weapons",
+      "kind": "door"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "tileSize": 16,
+  "generatedAt": "2026-11-08T22:55:53.942Z",
+  "sheets": [
+    {
+      "id": "scene",
+      "label": "Ship cross-section",
+      "png": "ship/scene.png",
+      "w": 896,
+      "h": 480
+    },
+    {
+      "id": "sky-day",
+      "label": "Sky (day)",
+      "png": "ship/sky-day.png",
+      "w": 256,
+      "h": 96
+    },
+    {
+      "id": "sky-night",
+      "label": "Sky (night)",
+      "png": "ship/sky-night.png",
+      "w": 256,
+      "h": 96
+    },
+    {
+      "id": "ocean-far",
+      "label": "Ocean far",
+      "png": "ship/ocean-far.png",
+      "w": 128,
+      "h": 16
+    },
+    {
+      "id": "ocean-mid",
+      "label": "Ocean mid",
+      "png": "ship/ocean-mid.png",
+      "w": 128,
+      "h": 16
+    },
+    {
+      "id": "ocean-near",
+      "label": "Ocean near",
+      "png": "ship/ocean-near.png",
+      "w": 128,
+      "h": 16
+    },
+    {
+      "id": "flag",
+      "label": "Flag wave",
+      "png": "ship/flag.png",
+      "json": "ship/flag.json",
+      "w": 64,
+      "h": 8
+    },
+    {
+      "id": "ui-icons",
+      "label": "UI icons",
+      "png": "ship/ui-icons.png",
+      "json": "ship/ui-icons.json",
+      "w": 58,
+      "h": 16
+    }
+  ]
+}

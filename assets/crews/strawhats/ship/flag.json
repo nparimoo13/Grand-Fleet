@@ -1,0 +1,98 @@
+{
+  "frames": {
+    "flag_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 8
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 8
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 8
+      },
+      "duration": 120
+    },
+    "flag_1.png": {
+      "frame": {
+        "x": 16,
+        "y": 0,
+        "w": 16,
+        "h": 8
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 8
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 8
+      },
+      "duration": 120
+    },
+    "flag_2.png": {
+      "frame": {
+        "x": 32,
+        "y": 0,
+        "w": 16,
+        "h": 8
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 8
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 8
+      },
+      "duration": 120
+    },
+    "flag_3.png": {
+      "frame": {
+        "x": 48,
+        "y": 0,
+        "w": 16,
+        "h": 8
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 8
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 8
+      },
+      "duration": 120
+    }
+  },
+  "meta": {
+    "app": "Grand Fleet art",
+    "version": "1.0",
+    "format": "RGBA8888",
+    "size": {
+      "w": 64,
+      "h": 8
+    },
+    "scale": "1"
+  }
+}

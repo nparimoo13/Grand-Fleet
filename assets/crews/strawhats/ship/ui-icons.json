@@ -1,0 +1,112 @@
+{
+  "frames": {
+    "den_den_idle.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      },
+      "duration": 200
+    },
+    "den_den_ring.png": {
+      "frame": {
+        "x": 16,
+        "y": 0,
+        "w": 14,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 14,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 14,
+        "h": 16
+      },
+      "duration": 200
+    },
+    "marker_bang.png": {
+      "frame": {
+        "x": 30,
+        "y": 0,
+        "w": 14,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 14,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 14,
+        "h": 16
+      },
+      "duration": 100
+    },
+    "marker_think.png": {
+      "frame": {
+        "x": 44,
+        "y": 0,
+        "w": 14,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 14,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 14,
+        "h": 16
+      },
+      "duration": 100
+    }
+  },
+  "meta": {
+    "app": "Grand Fleet art",
+    "version": "1.0",
+    "format": "RGBA8888",
+    "size": {
+      "w": 58,
+      "h": 16
+    },
+    "scale": "1",
+    "frameTags": [
+      {
+        "name": "den_den",
+        "from": 0,
+        "to": 1,
+        "direction": "forward"
+      },
+      {
+        "name": "markers",
+        "from": 2,
+        "to": 3,
+        "direction": "forward"
+      }
+    ]
+  }
+}

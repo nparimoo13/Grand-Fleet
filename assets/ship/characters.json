@@ -1,0 +1,4396 @@
+{
+  "frames": {
+    "sanji_idle_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "sanji_idle_1.png": {
+      "frame": {
+        "x": 24,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "sanji_walk_0.png": {
+      "frame": {
+        "x": 48,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "sanji_walk_1.png": {
+      "frame": {
+        "x": 72,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "sanji_walk_2.png": {
+      "frame": {
+        "x": 96,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "sanji_walk_3.png": {
+      "frame": {
+        "x": 120,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "sanji_work_0.png": {
+      "frame": {
+        "x": 144,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "sanji_work_1.png": {
+      "frame": {
+        "x": 168,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "sanji_work_2.png": {
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "sanji_work_3.png": {
+      "frame": {
+        "x": 216,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "luffy_idle_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 32,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "luffy_idle_1.png": {
+      "frame": {
+        "x": 24,
+        "y": 32,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "luffy_walk_0.png": {
+      "frame": {
+        "x": 48,
+        "y": 32,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "luffy_walk_1.png": {
+      "frame": {
+        "x": 72,
+        "y": 32,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "luffy_walk_2.png": {
+      "frame": {
+        "x": 96,
+        "y": 32,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "luffy_walk_3.png": {
+      "frame": {
+        "x": 120,
+        "y": 32,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "luffy_work_0.png": {
+      "frame": {
+        "x": 144,
+        "y": 32,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "luffy_work_1.png": {
+      "frame": {
+        "x": 168,
+        "y": 32,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "luffy_work_2.png": {
+      "frame": {
+        "x": 192,
+        "y": 32,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "luffy_work_3.png": {
+      "frame": {
+        "x": 216,
+        "y": 32,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "zoro_idle_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 64,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "zoro_idle_1.png": {
+      "frame": {
+        "x": 24,
+        "y": 64,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "zoro_walk_0.png": {
+      "frame": {
+        "x": 48,
+        "y": 64,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "zoro_walk_1.png": {
+      "frame": {
+        "x": 72,
+        "y": 64,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "zoro_walk_2.png": {
+      "frame": {
+        "x": 96,
+        "y": 64,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "zoro_walk_3.png": {
+      "frame": {
+        "x": 120,
+        "y": 64,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "zoro_work_0.png": {
+      "frame": {
+        "x": 144,
+        "y": 64,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "zoro_work_1.png": {
+      "frame": {
+        "x": 168,
+        "y": 64,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "zoro_work_2.png": {
+      "frame": {
+        "x": 192,
+        "y": 64,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "zoro_work_3.png": {
+      "frame": {
+        "x": 216,
+        "y": 64,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "nami_idle_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 96,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "nami_idle_1.png": {
+      "frame": {
+        "x": 24,
+        "y": 96,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "nami_walk_0.png": {
+      "frame": {
+        "x": 48,
+        "y": 96,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "nami_walk_1.png": {
+      "frame": {
+        "x": 72,
+        "y": 96,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "nami_walk_2.png": {
+      "frame": {
+        "x": 96,
+        "y": 96,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "nami_walk_3.png": {
+      "frame": {
+        "x": 120,
+        "y": 96,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "nami_work_0.png": {
+      "frame": {
+        "x": 144,
+        "y": 96,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "nami_work_1.png": {
+      "frame": {
+        "x": 168,
+        "y": 96,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "nami_work_2.png": {
+      "frame": {
+        "x": 192,
+        "y": 96,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "nami_work_3.png": {
+      "frame": {
+        "x": 216,
+        "y": 96,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "robin_idle_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 128,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "robin_idle_1.png": {
+      "frame": {
+        "x": 24,
+        "y": 128,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "robin_walk_0.png": {
+      "frame": {
+        "x": 48,
+        "y": 128,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "robin_walk_1.png": {
+      "frame": {
+        "x": 72,
+        "y": 128,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "robin_walk_2.png": {
+      "frame": {
+        "x": 96,
+        "y": 128,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "robin_walk_3.png": {
+      "frame": {
+        "x": 120,
+        "y": 128,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "robin_work_0.png": {
+      "frame": {
+        "x": 144,
+        "y": 128,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "robin_work_1.png": {
+      "frame": {
+        "x": 168,
+        "y": 128,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "robin_work_2.png": {
+      "frame": {
+        "x": 192,
+        "y": 128,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "robin_work_3.png": {
+      "frame": {
+        "x": 216,
+        "y": 128,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "franky_idle_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 160,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "franky_idle_1.png": {
+      "frame": {
+        "x": 24,
+        "y": 160,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "franky_walk_0.png": {
+      "frame": {
+        "x": 48,
+        "y": 160,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "franky_walk_1.png": {
+      "frame": {
+        "x": 72,
+        "y": 160,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "franky_walk_2.png": {
+      "frame": {
+        "x": 96,
+        "y": 160,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "franky_walk_3.png": {
+      "frame": {
+        "x": 120,
+        "y": 160,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "franky_work_0.png": {
+      "frame": {
+        "x": 144,
+        "y": 160,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "franky_work_1.png": {
+      "frame": {
+        "x": 168,
+        "y": 160,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "franky_work_2.png": {
+      "frame": {
+        "x": 192,
+        "y": 160,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "franky_work_3.png": {
+      "frame": {
+        "x": 216,
+        "y": 160,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "usopp_idle_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 192,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "usopp_idle_1.png": {
+      "frame": {
+        "x": 24,
+        "y": 192,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "usopp_walk_0.png": {
+      "frame": {
+        "x": 48,
+        "y": 192,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "usopp_walk_1.png": {
+      "frame": {
+        "x": 72,
+        "y": 192,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "usopp_walk_2.png": {
+      "frame": {
+        "x": 96,
+        "y": 192,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "usopp_walk_3.png": {
+      "frame": {
+        "x": 120,
+        "y": 192,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "usopp_work_0.png": {
+      "frame": {
+        "x": 144,
+        "y": 192,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "usopp_work_1.png": {
+      "frame": {
+        "x": 168,
+        "y": 192,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "usopp_work_2.png": {
+      "frame": {
+        "x": 192,
+        "y": 192,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "usopp_work_3.png": {
+      "frame": {
+        "x": 216,
+        "y": 192,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "jinbe_idle_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 224,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "jinbe_idle_1.png": {
+      "frame": {
+        "x": 24,
+        "y": 224,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "jinbe_walk_0.png": {
+      "frame": {
+        "x": 48,
+        "y": 224,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "jinbe_walk_1.png": {
+      "frame": {
+        "x": 72,
+        "y": 224,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "jinbe_walk_2.png": {
+      "frame": {
+        "x": 96,
+        "y": 224,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "jinbe_walk_3.png": {
+      "frame": {
+        "x": 120,
+        "y": 224,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "jinbe_work_0.png": {
+      "frame": {
+        "x": 144,
+        "y": 224,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "jinbe_work_1.png": {
+      "frame": {
+        "x": 168,
+        "y": 224,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "jinbe_work_2.png": {
+      "frame": {
+        "x": 192,
+        "y": 224,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "jinbe_work_3.png": {
+      "frame": {
+        "x": 216,
+        "y": 224,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "brook_idle_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 256,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "brook_idle_1.png": {
+      "frame": {
+        "x": 24,
+        "y": 256,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "brook_walk_0.png": {
+      "frame": {
+        "x": 48,
+        "y": 256,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "brook_walk_1.png": {
+      "frame": {
+        "x": 72,
+        "y": 256,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "brook_walk_2.png": {
+      "frame": {
+        "x": 96,
+        "y": 256,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "brook_walk_3.png": {
+      "frame": {
+        "x": 120,
+        "y": 256,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "brook_work_0.png": {
+      "frame": {
+        "x": 144,
+        "y": 256,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "brook_work_1.png": {
+      "frame": {
+        "x": 168,
+        "y": 256,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "brook_work_2.png": {
+      "frame": {
+        "x": 192,
+        "y": 256,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "brook_work_3.png": {
+      "frame": {
+        "x": 216,
+        "y": 256,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "chopper_idle_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 288,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "chopper_idle_1.png": {
+      "frame": {
+        "x": 24,
+        "y": 288,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "chopper_walk_0.png": {
+      "frame": {
+        "x": 48,
+        "y": 288,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "chopper_walk_1.png": {
+      "frame": {
+        "x": 72,
+        "y": 288,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "chopper_walk_2.png": {
+      "frame": {
+        "x": 96,
+        "y": 288,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "chopper_walk_3.png": {
+      "frame": {
+        "x": 120,
+        "y": 288,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "chopper_work_0.png": {
+      "frame": {
+        "x": 144,
+        "y": 288,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "chopper_work_1.png": {
+      "frame": {
+        "x": 168,
+        "y": 288,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "chopper_work_2.png": {
+      "frame": {
+        "x": 192,
+        "y": 288,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "chopper_work_3.png": {
+      "frame": {
+        "x": 216,
+        "y": 288,
+        "w": 24,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 32
+      },
+      "duration": 100
+    },
+    "sanji_idle_0__shadow.png": {
+      "frame": {
+        "x": 0,
+        "y": 320,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "sanji_idle_1__shadow.png": {
+      "frame": {
+        "x": 25,
+        "y": 320,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "sanji_walk_0__shadow.png": {
+      "frame": {
+        "x": 50,
+        "y": 320,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "sanji_walk_1__shadow.png": {
+      "frame": {
+        "x": 75,
+        "y": 320,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "sanji_walk_2__shadow.png": {
+      "frame": {
+        "x": 100,
+        "y": 320,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "sanji_walk_3__shadow.png": {
+      "frame": {
+        "x": 125,
+        "y": 320,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "sanji_work_0__shadow.png": {
+      "frame": {
+        "x": 150,
+        "y": 320,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "sanji_work_1__shadow.png": {
+      "frame": {
+        "x": 175,
+        "y": 320,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "sanji_work_2__shadow.png": {
+      "frame": {
+        "x": 200,
+        "y": 320,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "sanji_work_3__shadow.png": {
+      "frame": {
+        "x": 225,
+        "y": 320,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "luffy_idle_0__shadow.png": {
+      "frame": {
+        "x": 0,
+        "y": 353,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "luffy_idle_1__shadow.png": {
+      "frame": {
+        "x": 25,
+        "y": 353,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "luffy_walk_0__shadow.png": {
+      "frame": {
+        "x": 50,
+        "y": 353,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "luffy_walk_1__shadow.png": {
+      "frame": {
+        "x": 75,
+        "y": 353,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "luffy_walk_2__shadow.png": {
+      "frame": {
+        "x": 100,
+        "y": 353,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "luffy_walk_3__shadow.png": {
+      "frame": {
+        "x": 125,
+        "y": 353,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "luffy_work_0__shadow.png": {
+      "frame": {
+        "x": 150,
+        "y": 353,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "luffy_work_1__shadow.png": {
+      "frame": {
+        "x": 175,
+        "y": 353,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "luffy_work_2__shadow.png": {
+      "frame": {
+        "x": 200,
+        "y": 353,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "luffy_work_3__shadow.png": {
+      "frame": {
+        "x": 225,
+        "y": 353,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "zoro_idle_0__shadow.png": {
+      "frame": {
+        "x": 0,
+        "y": 386,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "zoro_idle_1__shadow.png": {
+      "frame": {
+        "x": 25,
+        "y": 386,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "zoro_walk_0__shadow.png": {
+      "frame": {
+        "x": 50,
+        "y": 386,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "zoro_walk_1__shadow.png": {
+      "frame": {
+        "x": 75,
+        "y": 386,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "zoro_walk_2__shadow.png": {
+      "frame": {
+        "x": 100,
+        "y": 386,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "zoro_walk_3__shadow.png": {
+      "frame": {
+        "x": 125,
+        "y": 386,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "zoro_work_0__shadow.png": {
+      "frame": {
+        "x": 150,
+        "y": 386,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "zoro_work_1__shadow.png": {
+      "frame": {
+        "x": 175,
+        "y": 386,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "zoro_work_2__shadow.png": {
+      "frame": {
+        "x": 200,
+        "y": 386,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "zoro_work_3__shadow.png": {
+      "frame": {
+        "x": 225,
+        "y": 386,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "nami_idle_0__shadow.png": {
+      "frame": {
+        "x": 0,
+        "y": 419,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "nami_idle_1__shadow.png": {
+      "frame": {
+        "x": 25,
+        "y": 419,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "nami_walk_0__shadow.png": {
+      "frame": {
+        "x": 50,
+        "y": 419,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "nami_walk_1__shadow.png": {
+      "frame": {
+        "x": 75,
+        "y": 419,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "nami_walk_2__shadow.png": {
+      "frame": {
+        "x": 100,
+        "y": 419,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "nami_walk_3__shadow.png": {
+      "frame": {
+        "x": 125,
+        "y": 419,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "nami_work_0__shadow.png": {
+      "frame": {
+        "x": 150,
+        "y": 419,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "nami_work_1__shadow.png": {
+      "frame": {
+        "x": 175,
+        "y": 419,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "nami_work_2__shadow.png": {
+      "frame": {
+        "x": 200,
+        "y": 419,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "nami_work_3__shadow.png": {
+      "frame": {
+        "x": 225,
+        "y": 419,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "robin_idle_0__shadow.png": {
+      "frame": {
+        "x": 0,
+        "y": 452,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "robin_idle_1__shadow.png": {
+      "frame": {
+        "x": 25,
+        "y": 452,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "robin_walk_0__shadow.png": {
+      "frame": {
+        "x": 50,
+        "y": 452,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "robin_walk_1__shadow.png": {
+      "frame": {
+        "x": 75,
+        "y": 452,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "robin_walk_2__shadow.png": {
+      "frame": {
+        "x": 100,
+        "y": 452,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "robin_walk_3__shadow.png": {
+      "frame": {
+        "x": 125,
+        "y": 452,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "robin_work_0__shadow.png": {
+      "frame": {
+        "x": 150,
+        "y": 452,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "robin_work_1__shadow.png": {
+      "frame": {
+        "x": 175,
+        "y": 452,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "robin_work_2__shadow.png": {
+      "frame": {
+        "x": 200,
+        "y": 452,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "robin_work_3__shadow.png": {
+      "frame": {
+        "x": 225,
+        "y": 452,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "franky_idle_0__shadow.png": {
+      "frame": {
+        "x": 0,
+        "y": 485,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "franky_idle_1__shadow.png": {
+      "frame": {
+        "x": 25,
+        "y": 485,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "franky_walk_0__shadow.png": {
+      "frame": {
+        "x": 50,
+        "y": 485,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "franky_walk_1__shadow.png": {
+      "frame": {
+        "x": 75,
+        "y": 485,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "franky_walk_2__shadow.png": {
+      "frame": {
+        "x": 100,
+        "y": 485,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "franky_walk_3__shadow.png": {
+      "frame": {
+        "x": 125,
+        "y": 485,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "franky_work_0__shadow.png": {
+      "frame": {
+        "x": 150,
+        "y": 485,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "franky_work_1__shadow.png": {
+      "frame": {
+        "x": 175,
+        "y": 485,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "franky_work_2__shadow.png": {
+      "frame": {
+        "x": 200,
+        "y": 485,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "franky_work_3__shadow.png": {
+      "frame": {
+        "x": 225,
+        "y": 485,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "usopp_idle_0__shadow.png": {
+      "frame": {
+        "x": 0,
+        "y": 518,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "usopp_idle_1__shadow.png": {
+      "frame": {
+        "x": 25,
+        "y": 518,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "usopp_walk_0__shadow.png": {
+      "frame": {
+        "x": 50,
+        "y": 518,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "usopp_walk_1__shadow.png": {
+      "frame": {
+        "x": 75,
+        "y": 518,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "usopp_walk_2__shadow.png": {
+      "frame": {
+        "x": 100,
+        "y": 518,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "usopp_walk_3__shadow.png": {
+      "frame": {
+        "x": 125,
+        "y": 518,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "usopp_work_0__shadow.png": {
+      "frame": {
+        "x": 150,
+        "y": 518,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "usopp_work_1__shadow.png": {
+      "frame": {
+        "x": 175,
+        "y": 518,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "usopp_work_2__shadow.png": {
+      "frame": {
+        "x": 200,
+        "y": 518,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "usopp_work_3__shadow.png": {
+      "frame": {
+        "x": 225,
+        "y": 518,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "jinbe_idle_0__shadow.png": {
+      "frame": {
+        "x": 0,
+        "y": 551,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "jinbe_idle_1__shadow.png": {
+      "frame": {
+        "x": 25,
+        "y": 551,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "jinbe_walk_0__shadow.png": {
+      "frame": {
+        "x": 50,
+        "y": 551,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "jinbe_walk_1__shadow.png": {
+      "frame": {
+        "x": 75,
+        "y": 551,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "jinbe_walk_2__shadow.png": {
+      "frame": {
+        "x": 100,
+        "y": 551,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "jinbe_walk_3__shadow.png": {
+      "frame": {
+        "x": 125,
+        "y": 551,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "jinbe_work_0__shadow.png": {
+      "frame": {
+        "x": 150,
+        "y": 551,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "jinbe_work_1__shadow.png": {
+      "frame": {
+        "x": 175,
+        "y": 551,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "jinbe_work_2__shadow.png": {
+      "frame": {
+        "x": 200,
+        "y": 551,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "jinbe_work_3__shadow.png": {
+      "frame": {
+        "x": 225,
+        "y": 551,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "brook_idle_0__shadow.png": {
+      "frame": {
+        "x": 0,
+        "y": 584,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "brook_idle_1__shadow.png": {
+      "frame": {
+        "x": 25,
+        "y": 584,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "brook_walk_0__shadow.png": {
+      "frame": {
+        "x": 50,
+        "y": 584,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "brook_walk_1__shadow.png": {
+      "frame": {
+        "x": 75,
+        "y": 584,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "brook_walk_2__shadow.png": {
+      "frame": {
+        "x": 100,
+        "y": 584,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "brook_walk_3__shadow.png": {
+      "frame": {
+        "x": 125,
+        "y": 584,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "brook_work_0__shadow.png": {
+      "frame": {
+        "x": 150,
+        "y": 584,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "brook_work_1__shadow.png": {
+      "frame": {
+        "x": 175,
+        "y": 584,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "brook_work_2__shadow.png": {
+      "frame": {
+        "x": 200,
+        "y": 584,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "brook_work_3__shadow.png": {
+      "frame": {
+        "x": 225,
+        "y": 584,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "chopper_idle_0__shadow.png": {
+      "frame": {
+        "x": 0,
+        "y": 617,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "chopper_idle_1__shadow.png": {
+      "frame": {
+        "x": 25,
+        "y": 617,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "chopper_walk_0__shadow.png": {
+      "frame": {
+        "x": 50,
+        "y": 617,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "chopper_walk_1__shadow.png": {
+      "frame": {
+        "x": 75,
+        "y": 617,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "chopper_walk_2__shadow.png": {
+      "frame": {
+        "x": 100,
+        "y": 617,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "chopper_walk_3__shadow.png": {
+      "frame": {
+        "x": 125,
+        "y": 617,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "chopper_work_0__shadow.png": {
+      "frame": {
+        "x": 150,
+        "y": 617,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "chopper_work_1__shadow.png": {
+      "frame": {
+        "x": 175,
+        "y": 617,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "chopper_work_2__shadow.png": {
+      "frame": {
+        "x": 200,
+        "y": 617,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    },
+    "chopper_work_3__shadow.png": {
+      "frame": {
+        "x": 225,
+        "y": 617,
+        "w": 25,
+        "h": 33
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 33
+      },
+      "duration": 100
+    }
+  },
+  "meta": {
+    "app": "Grand Fleet art",
+    "version": "1.0",
+    "format": "RGBA8888",
+    "size": {
+      "w": 250,
+      "h": 650
+    },
+    "scale": "1",
+    "frameTags": [
+      {
+        "name": "sanji_idle",
+        "from": 0,
+        "to": 1,
+        "direction": "forward"
+      },
+      {
+        "name": "sanji_walk",
+        "from": 2,
+        "to": 5,
+        "direction": "forward"
+      },
+      {
+        "name": "sanji_work",
+        "from": 6,
+        "to": 9,
+        "direction": "forward"
+      },
+      {
+        "name": "luffy_idle",
+        "from": 10,
+        "to": 11,
+        "direction": "forward"
+      },
+      {
+        "name": "luffy_walk",
+        "from": 12,
+        "to": 15,
+        "direction": "forward"
+      },
+      {
+        "name": "luffy_work",
+        "from": 16,
+        "to": 19,
+        "direction": "forward"
+      },
+      {
+        "name": "zoro_idle",
+        "from": 20,
+        "to": 21,
+        "direction": "forward"
+      },
+      {
+        "name": "zoro_walk",
+        "from": 22,
+        "to": 25,
+        "direction": "forward"
+      },
+      {
+        "name": "zoro_work",
+        "from": 26,
+        "to": 29,
+        "direction": "forward"
+      },
+      {
+        "name": "nami_idle",
+        "from": 30,
+        "to": 31,
+        "direction": "forward"
+      },
+      {
+        "name": "nami_walk",
+        "from": 32,
+        "to": 35,
+        "direction": "forward"
+      },
+      {
+        "name": "nami_work",
+        "from": 36,
+        "to": 39,
+        "direction": "forward"
+      },
+      {
+        "name": "robin_idle",
+        "from": 40,
+        "to": 41,
+        "direction": "forward"
+      },
+      {
+        "name": "robin_walk",
+        "from": 42,
+        "to": 45,
+        "direction": "forward"
+      },
+      {
+        "name": "robin_work",
+        "from": 46,
+        "to": 49,
+        "direction": "forward"
+      },
+      {
+        "name": "franky_idle",
+        "from": 50,
+        "to": 51,
+        "direction": "forward"
+      },
+      {
+        "name": "franky_walk",
+        "from": 52,
+        "to": 55,
+        "direction": "forward"
+      },
+      {
+        "name": "franky_work",
+        "from": 56,
+        "to": 59,
+        "direction": "forward"
+      },
+      {
+        "name": "usopp_idle",
+        "from": 60,
+        "to": 61,
+        "direction": "forward"
+      },
+      {
+        "name": "usopp_walk",
+        "from": 62,
+        "to": 65,
+        "direction": "forward"
+      },
+      {
+        "name": "usopp_work",
+        "from": 66,
+        "to": 69,
+        "direction": "forward"
+      },
+      {
+        "name": "jinbe_idle",
+        "from": 70,
+        "to": 71,
+        "direction": "forward"
+      },
+      {
+        "name": "jinbe_walk",
+        "from": 72,
+        "to": 75,
+        "direction": "forward"
+      },
+      {
+        "name": "jinbe_work",
+        "from": 76,
+        "to": 79,
+        "direction": "forward"
+      },
+      {
+        "name": "brook_idle",
+        "from": 80,
+        "to": 81,
+        "direction": "forward"
+      },
+      {
+        "name": "brook_walk",
+        "from": 82,
+        "to": 85,
+        "direction": "forward"
+      },
+      {
+        "name": "brook_work",
+        "from": 86,
+        "to": 89,
+        "direction": "forward"
+      },
+      {
+        "name": "chopper_idle",
+        "from": 90,
+        "to": 91,
+        "direction": "forward"
+      },
+      {
+        "name": "chopper_walk",
+        "from": 92,
+        "to": 95,
+        "direction": "forward"
+      },
+      {
+        "name": "chopper_work",
+        "from": 96,
+        "to": 99,
+        "direction": "forward"
+      }
+    ]
+  }
+}

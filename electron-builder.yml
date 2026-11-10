@@ -1,0 +1,46 @@
+appId: app.grandfleet.desktop
+productName: Grand Fleet
+directories:
+  output: dist
+files:
+  - out/**
+  - package.json
+asar: true
+# Native modules must live outside the asar archive.
+asarUnpack:
+  - "**/node_modules/better-sqlite3/**"
+  # node-pty loads conpty/winpty binaries and spawns helper executables by path.
+  - "**/node_modules/node-pty/**"
+# Crew packs are plain data folders so they can be edited or extended after install.
+extraResources:
+  - from: assets
+    to: assets
+    filter:
+      - "**/*"
+# Native modules are rebuilt for Electron at install time (`postinstall`, better-sqlite3 only).
+# node-pty ships N-API prebuilds, so it needs no compile. Re-enable this when adding a module
+# that must be compiled, or when cross-building for another architecture.
+npmRebuild: false
+win:
+  target:
+    - target: nsis
+      arch: [x64]
+  # Skips the winCodeSign toolchain, whose archive needs symlink privileges
+  # (Windows Developer Mode or admin). Revisit in the polish phase when we have a signing certificate.
+  # Without it the app.exe itself keeps the default Electron icon (the icon cannot be embedded), but the
+  # window, taskbar and installer use Brook (assets/icon, built by `pnpm art`).
+  signAndEditExecutable: false
+  icon: assets/icon/icon.ico
+nsis:
+  installerIcon: assets/icon/icon.ico
+  uninstallerIcon: assets/icon/icon.ico
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+# macOS and Linux targets are intentionally left for later; the code is cross-platform.
+mac:
+  category: public.app-category.developer-tools
+  target: [dmg]
+linux:
+  target: [AppImage]
+  category: Development

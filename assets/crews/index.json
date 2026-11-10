@@ -1,0 +1,8 @@
+{
+  "crews": [
+    { "id": "strawhats", "name": "Straw Hat Pirates", "shipName": "The Sunny Deck", "available": true },
+    { "id": "heart", "name": "Heart Pirates", "shipName": "Polar Tang", "available": false, "comingSoon": true },
+    { "id": "whitebeard", "name": "Whitebeard Pirates", "shipName": "Moby Dick", "available": false, "comingSoon": true },
+    { "id": "beast", "name": "Beast Pirates", "shipName": "Ship TBD", "available": false, "comingSoon": true }
+  ]
+}

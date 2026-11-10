@@ -1,0 +1,1253 @@
+{
+  "frames": {
+    "gull_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 11,
+        "h": 4
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 11,
+        "h": 4
+      },
+      "sourceSize": {
+        "w": 11,
+        "h": 4
+      },
+      "duration": 100
+    },
+    "gull_1.png": {
+      "frame": {
+        "x": 11,
+        "y": 0,
+        "w": 11,
+        "h": 4
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 11,
+        "h": 4
+      },
+      "sourceSize": {
+        "w": 11,
+        "h": 4
+      },
+      "duration": 100
+    },
+    "gull_2.png": {
+      "frame": {
+        "x": 22,
+        "y": 0,
+        "w": 11,
+        "h": 4
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 11,
+        "h": 4
+      },
+      "sourceSize": {
+        "w": 11,
+        "h": 4
+      },
+      "duration": 100
+    },
+    "sky_day.png": {
+      "frame": {
+        "x": 33,
+        "y": 0,
+        "w": 64,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 452
+      },
+      "duration": 100
+    },
+    "sky_night.png": {
+      "frame": {
+        "x": 97,
+        "y": 0,
+        "w": 64,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 452
+      },
+      "duration": 100
+    },
+    "stars.png": {
+      "frame": {
+        "x": 0,
+        "y": 452,
+        "w": 1024,
+        "h": 422
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 422
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 422
+      },
+      "duration": 100
+    },
+    "sun.png": {
+      "frame": {
+        "x": 0,
+        "y": 874,
+        "w": 44,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 44
+      },
+      "duration": 100
+    },
+    "moon.png": {
+      "frame": {
+        "x": 44,
+        "y": 874,
+        "w": 30,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 30
+      },
+      "duration": 100
+    },
+    "cloud_l.png": {
+      "frame": {
+        "x": 74,
+        "y": 874,
+        "w": 72,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 22
+      },
+      "duration": 100
+    },
+    "cloud_m.png": {
+      "frame": {
+        "x": 146,
+        "y": 874,
+        "w": 46,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 16
+      },
+      "duration": 100
+    },
+    "hull_day.png": {
+      "frame": {
+        "x": 0,
+        "y": 918,
+        "w": 1024,
+        "h": 470
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 470
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 470
+      },
+      "duration": 100
+    },
+    "mast_day.png": {
+      "frame": {
+        "x": 0,
+        "y": 1388,
+        "w": 14,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 14,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 14,
+        "h": 135
+      },
+      "duration": 100
+    },
+    "yard_day.png": {
+      "frame": {
+        "x": 14,
+        "y": 1388,
+        "w": 194,
+        "h": 8
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 194,
+        "h": 8
+      },
+      "sourceSize": {
+        "w": 194,
+        "h": 8
+      },
+      "duration": 100
+    },
+    "sail_day.png": {
+      "frame": {
+        "x": 208,
+        "y": 1388,
+        "w": 178,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 178,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 98
+      },
+      "duration": 100
+    },
+    "rigging_day.png": {
+      "frame": {
+        "x": 0,
+        "y": 1523,
+        "w": 1024,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 220
+      },
+      "duration": 100
+    },
+    "nest_roof_day.png": {
+      "frame": {
+        "x": 0,
+        "y": 1743,
+        "w": 206,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 34
+      },
+      "duration": 100
+    },
+    "nest_base_day.png": {
+      "frame": {
+        "x": 206,
+        "y": 1743,
+        "w": 98,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 24
+      },
+      "duration": 100
+    },
+    "dome_day.png": {
+      "frame": {
+        "x": 304,
+        "y": 1743,
+        "w": 186,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 58
+      },
+      "duration": 100
+    },
+    "chimney_day.png": {
+      "frame": {
+        "x": 490,
+        "y": 1743,
+        "w": 16,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 42
+      },
+      "duration": 100
+    },
+    "figurehead_day.png": {
+      "frame": {
+        "x": 506,
+        "y": 1743,
+        "w": 106,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 130
+      },
+      "duration": 100
+    },
+    "bow_scroll_day.png": {
+      "frame": {
+        "x": 612,
+        "y": 1743,
+        "w": 48,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 68
+      },
+      "duration": 100
+    },
+    "hull_night.png": {
+      "frame": {
+        "x": 0,
+        "y": 1873,
+        "w": 1024,
+        "h": 470
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 470
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 470
+      },
+      "duration": 100
+    },
+    "mast_night.png": {
+      "frame": {
+        "x": 0,
+        "y": 2343,
+        "w": 14,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 14,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 14,
+        "h": 135
+      },
+      "duration": 100
+    },
+    "yard_night.png": {
+      "frame": {
+        "x": 14,
+        "y": 2343,
+        "w": 194,
+        "h": 8
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 194,
+        "h": 8
+      },
+      "sourceSize": {
+        "w": 194,
+        "h": 8
+      },
+      "duration": 100
+    },
+    "sail_night.png": {
+      "frame": {
+        "x": 208,
+        "y": 2343,
+        "w": 178,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 178,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 98
+      },
+      "duration": 100
+    },
+    "rigging_night.png": {
+      "frame": {
+        "x": 0,
+        "y": 2478,
+        "w": 1024,
+        "h": 220
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1024,
+        "h": 220
+      },
+      "sourceSize": {
+        "w": 1024,
+        "h": 220
+      },
+      "duration": 100
+    },
+    "nest_roof_night.png": {
+      "frame": {
+        "x": 0,
+        "y": 2698,
+        "w": 206,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 34
+      },
+      "duration": 100
+    },
+    "nest_base_night.png": {
+      "frame": {
+        "x": 206,
+        "y": 2698,
+        "w": 98,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 24
+      },
+      "duration": 100
+    },
+    "dome_night.png": {
+      "frame": {
+        "x": 304,
+        "y": 2698,
+        "w": 186,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 58
+      },
+      "duration": 100
+    },
+    "chimney_night.png": {
+      "frame": {
+        "x": 490,
+        "y": 2698,
+        "w": 16,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 42
+      },
+      "duration": 100
+    },
+    "figurehead_night.png": {
+      "frame": {
+        "x": 506,
+        "y": 2698,
+        "w": 106,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 130
+      },
+      "duration": 100
+    },
+    "bow_scroll_night.png": {
+      "frame": {
+        "x": 612,
+        "y": 2698,
+        "w": 48,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 68
+      },
+      "duration": 100
+    },
+    "conn_mast_ladder.png": {
+      "frame": {
+        "x": 660,
+        "y": 2698,
+        "w": 16,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 146
+      },
+      "duration": 100
+    },
+    "conn_captain_steps.png": {
+      "frame": {
+        "x": 676,
+        "y": 2698,
+        "w": 28,
+        "h": 54
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 54
+      },
+      "duration": 100
+    },
+    "conn_grand_stairs.png": {
+      "frame": {
+        "x": 704,
+        "y": 2698,
+        "w": 126,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 126,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 146
+      },
+      "duration": 100
+    },
+    "conn_hatch_bow_galley.png": {
+      "frame": {
+        "x": 830,
+        "y": 2698,
+        "w": 18,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 108
+      },
+      "duration": 100
+    },
+    "conn_hatch_lawn_quarters.png": {
+      "frame": {
+        "x": 848,
+        "y": 2698,
+        "w": 18,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 108
+      },
+      "duration": 100
+    },
+    "conn_ladder_galley_lounge.png": {
+      "frame": {
+        "x": 866,
+        "y": 2698,
+        "w": 18,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 104
+      },
+      "duration": 100
+    },
+    "conn_ladder_quarters_lounge.png": {
+      "frame": {
+        "x": 884,
+        "y": 2698,
+        "w": 18,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 104
+      },
+      "duration": 100
+    },
+    "conn_ladder_hall_infirmary.png": {
+      "frame": {
+        "x": 902,
+        "y": 2698,
+        "w": 18,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 104
+      },
+      "duration": 100
+    },
+    "conn_ladder_workshop_engine.png": {
+      "frame": {
+        "x": 920,
+        "y": 2698,
+        "w": 18,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 104
+      },
+      "duration": 100
+    },
+    "conn_ladder_lounge_storage.png": {
+      "frame": {
+        "x": 938,
+        "y": 2698,
+        "w": 18,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 104
+      },
+      "duration": 100
+    },
+    "conn_ladder_infirmary_weapons.png": {
+      "frame": {
+        "x": 956,
+        "y": 2698,
+        "w": 18,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 104
+      },
+      "duration": 100
+    },
+    "sea_fill_day_0.png": {
+      "frame": {
+        "x": 974,
+        "y": 2698,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      },
+      "duration": 100
+    },
+    "fwave_day_0.png": {
+      "frame": {
+        "x": 990,
+        "y": 2698,
+        "w": 32,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 22
+      },
+      "duration": 100
+    },
+    "flag_day_0.png": {
+      "frame": {
+        "x": 0,
+        "y": 2844,
+        "w": 42,
+        "h": 26
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 26
+      },
+      "duration": 100
+    },
+    "sea_fill_day_1.png": {
+      "frame": {
+        "x": 42,
+        "y": 2844,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      },
+      "duration": 100
+    },
+    "fwave_day_1.png": {
+      "frame": {
+        "x": 58,
+        "y": 2844,
+        "w": 32,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 22
+      },
+      "duration": 100
+    },
+    "flag_day_1.png": {
+      "frame": {
+        "x": 90,
+        "y": 2844,
+        "w": 42,
+        "h": 26
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 26
+      },
+      "duration": 100
+    },
+    "sea_fill_night_0.png": {
+      "frame": {
+        "x": 132,
+        "y": 2844,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      },
+      "duration": 100
+    },
+    "fwave_night_0.png": {
+      "frame": {
+        "x": 148,
+        "y": 2844,
+        "w": 32,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 22
+      },
+      "duration": 100
+    },
+    "flag_night_0.png": {
+      "frame": {
+        "x": 180,
+        "y": 2844,
+        "w": 42,
+        "h": 26
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 26
+      },
+      "duration": 100
+    },
+    "sea_fill_night_1.png": {
+      "frame": {
+        "x": 222,
+        "y": 2844,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      },
+      "duration": 100
+    },
+    "fwave_night_1.png": {
+      "frame": {
+        "x": 238,
+        "y": 2844,
+        "w": 32,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 22
+      },
+      "duration": 100
+    },
+    "flag_night_1.png": {
+      "frame": {
+        "x": 270,
+        "y": 2844,
+        "w": 42,
+        "h": 26
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 26
+      },
+      "duration": 100
+    },
+    "gunport_closed_day.png": {
+      "frame": {
+        "x": 312,
+        "y": 2844,
+        "w": 24,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 18
+      },
+      "duration": 100
+    },
+    "gunport_open_day.png": {
+      "frame": {
+        "x": 336,
+        "y": 2844,
+        "w": 24,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 18
+      },
+      "duration": 100
+    },
+    "gunport_closed_night.png": {
+      "frame": {
+        "x": 360,
+        "y": 2844,
+        "w": 24,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 18
+      },
+      "duration": 100
+    },
+    "gunport_open_night.png": {
+      "frame": {
+        "x": 384,
+        "y": 2844,
+        "w": 24,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 18
+      },
+      "duration": 100
+    }
+  },
+  "meta": {
+    "app": "Grand Fleet art",
+    "version": "1.0",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 2870
+    },
+    "scale": "1"
+  }
+}

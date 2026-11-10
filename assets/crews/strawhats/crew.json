@@ -1,0 +1,8 @@
+{
+  "id": "strawhats",
+  "name": "Straw Hat Pirates",
+  "tagline": "The captain runs the voyage.",
+  "captainId": "luffy",
+  "ship": "ship/ship.json",
+  "characters": ["luffy", "nami", "robin", "franky", "usopp", "chopper", "zoro", "sanji", "jinbe", "brook"]
+}
